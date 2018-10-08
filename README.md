@@ -1,0 +1,2 @@
+# Laravel-Scout
+Laravel Scout
